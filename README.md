@@ -1,6 +1,6 @@
 # AI-for-Neuro-oncology
 
-## Diffuse Intrinsic Pontine Glioma (DIPG) Analysis
+# Diffuse Intrinsic Pontine Glioma (DIPG) Analysis
 The Diffuse Intrinsic Pontine Glioma (DIPG) is a highly aggressive pediatric tumor, characterized by a median overall survival of approximately 11 months. As the tumor is inoperable, radiotherapy emerges as the primary treatment option, typically resulting in a transient improvement.
 
 Genomic analyses reveal that a significant portion of DIPG patients have mutations in genes encoding for histone H3, leading to a lysine 27 to methionine substitution (H3-K27M). This disease is classified under the new WHO designation as diffuse midline gliomas, H3 K27-altered, with the most common alterations being H3.1 and H3.3 variants.
