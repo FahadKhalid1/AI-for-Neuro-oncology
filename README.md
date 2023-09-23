@@ -11,3 +11,5 @@ Multi-modal MRI images are a standard diagnostic tool. The field of Radiomics ai
 MRI, due to its high spatial resolution, is the preferred imaging method for pediatric patients with central nervous system tumors. However, MRI intensities being non-standardized necessitate specific standardization methods for robust radiomic feature extraction. Efforts focus on addressing intensity variations stemming from various sources, with strategies like Z-score normalization and using a reference tissue for normalization.
 
 In developing our comprehensive approach, we encountered challenges such as missing data and limited available data for training. A multi-model strategy was subsequently adopted, harnessing all available data types, including clinical data and various MRI modalities.
+
+<img width="1363" alt="Mri" src="https://github.com/FahadKhalid1/AI-for-Neuro-oncology/assets/22212834/f36bb1af-8feb-4a69-98e4-e86dab0d726f">
